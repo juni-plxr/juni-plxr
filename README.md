@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juni-plxr
-- 👀 I’m interested in creating software applications written in modern & shiny tools.
+- 👀 I’m interested in building software applications.
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me juni@plxrmedia.com
